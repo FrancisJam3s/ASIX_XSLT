@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="Exercici2.xsl" type="text/xsl"?>
+
+
+<videojuegos>
+    <!-- Llista de videojocs-->
+    <juego>
+        <titulo>Resident evil 4 Remake</titulo>
+        <fecha>24/03/2023</fecha>
+    </juego>
+    <juego>
+        <titulo>Hogwarts Legacy</titulo>
+        <fecha>10/02/2023</fecha>
+    </juego>
+    <juego>
+        <titulo>Elder Ring</titulo>
+        <fecha>25/02/2022</fecha>
+    </juego>
+    <juego>
+        <titulo>God of war: Ragnarok</titulo>
+        <fecha>09/11/2022</fecha>
+    </juego>
+</videojuegos>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="Exercici3.xsl" type="text/xsl"?>
+
+<videojuegos>
+    <!-- Llista de videojocs-->
+    <juego>
+        <titulo>Resident evil 4 Remake</titulo>
+        <fecha>24/03/2023</fecha>
+        <consola>PS5</consola>
+        <preu>44.51</preu>
+        <desenvolupador>Capcom</desenvolupador>
+        <genere>terror</genere>
+    </juego>
+    <juego>
+        <titulo>Hogwarts Legacy</titulo>
+        <fecha>10/02/2023</fecha>
+        <consola>PS5</consola>
+        <preu>51.67</preu>
+        <desenvolupador>Avalanche Software</desenvolupador>
+        <genere>Fantasia</genere>
+    </juego>
+    <juego>
+        <titulo>Elder Ring</titulo>
+        <fecha>25/02/2022</fecha>
+        <consola>PS5</consola>
+        <preu>64.99</preu>
+        <desenvolupador>FromSoftware</desenvolupador>
+        <genere>Rol Acción</genere>
+    </juego>
+    <juego>
+        <titulo>God of War: Ragnarok</titulo>
+        <fecha>9/11/2022</fecha>
+        <consola>PS5</consola>
+        <preu>57.49</preu>
+        <desenvolupador>SIE Santa Monica Studio</desenvolupador>
+        <genere>Aventura</genere>
+    </juego>
+    <juego>
+        <titulo>Assassin's Creed: Valhalla</titulo>
+        <fecha>10/11/2020</fecha>
+        <consola>PS5</consola>
+        <preu>55.99</preu>
+        <desenvolupador>Ubisoft Montreal</desenvolupador>
+        <genere>Aventura</genere>
+    </juego>
+    <juego>
+        <titulo>Forza Horizon 5</titulo>
+        <fecha>1/11/2021</fecha>
+        <consola>Xbox Series X</consola>
+        <preu>77.64</preu>
+        <desenvolupador>Playground Games</desenvolupador>
+        <genere>Carreras</genere>
+    </juego>
+    <juego>
+        <titulo>Dishonored</titulo>
+        <fecha>9/10/2012</fecha>
+        <consola>PS4</consola>
+        <preu>44.51</preu>
+        <desenvolupador>Arkane Studios</desenvolupador>
+        <genere>terror</genere>
+    </juego>
+    
+  
+    
+</videojuegos>
